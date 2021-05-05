@@ -1,0 +1,17 @@
+<svg width="1520" height="391" viewBox="0 0 1520 391" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1520" height="391">
+<rect width="1520" height="391" rx="25" fill="#426EDB"/>
+</mask>
+<g mask="url(#mask0)">
+<circle cx="1515" cy="257" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="1476" cy="328" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="1442" cy="371" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="1381" cy="399" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="1309" cy="425" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="129" cy="-66" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="90" cy="5" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="56" cy="48" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="-5" cy="76" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+<circle cx="-77" cy="102" r="256" stroke="white" stroke-opacity="0.3" stroke-width="2"/>
+</g>
+</svg>

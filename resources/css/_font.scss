@@ -1,0 +1,33 @@
+// font
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+// font-family: 'Rubik', sans-serif;
+
+
+
+// local font linking
+
+
+@font-face {
+    font-family: ttcr;
+    src: url(./../font/TTCommons-Regular.ttf) format("truetype");
+}
+
+
+@font-face {
+    font-family: ttcm;
+    src: url(./../font/TTCommons-Medium.ttf) format("truetype");
+}
+
+
+@font-face {
+    font-family: ttcdb;
+    src: url(./../font/TTCommons-DemiBold.ttf) format("truetype");
+}
+
+
+@font-face {
+    font-family: ttcb;
+    src: url(./../font/TTCommons-Bold.ttf) format("truetype");
+}
+
