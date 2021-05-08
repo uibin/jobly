@@ -1231,8 +1231,8 @@ body {
   -moz-transition: .2s;
   -ms-transition: .2s;
   -o-transition: .2s;
-  height: 3.8rem;
-  width: 3.8rem;
+  height: 4.5rem;
+  width: 4.5rem;
   border-radius: 100%;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
@@ -1247,9 +1247,8 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-box-shadow: 0 0.4rem 30px rgba(0, 0, 0, 0.25);
-          box-shadow: 0 0.4rem 30px rgba(0, 0, 0, 0.25);
   margin: 0 .75rem;
+  border: 0.1rem solid rgba(69, 64, 222, 0.1);
 }
 
 #footer .wrapper .social .box a:hover {
@@ -1369,6 +1368,8 @@ body {
 }
 
 #copyright img {
+  width: 1.2rem;
+  height: auto;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
